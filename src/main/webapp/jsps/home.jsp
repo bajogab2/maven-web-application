@@ -13,9 +13,9 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising billionaires IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-        Landmark Technologies, the Pride of Africa.
-	Class36 DevOps MasterClass started on April 13, 2024.
-        Class37 DevOps MasterClass will start on July 13, 2024.
+        Bajogab Technologies, the Pride of Africa.
+	Class1 DevOps MasterClass started on June 3, 2024.
+        Class2 DevOps MasterClass will start on October 25, 2024.
         Please invite all your contacts and friends for this life changing course.
 </h1>
 <hr>
