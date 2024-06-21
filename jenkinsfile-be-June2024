@@ -43,7 +43,7 @@ pipeline{
 
       }
     }
-   
+   /*
     stage('6.ManualApproval'){
       steps{
        sh "echo Please Review and confirm within 5 days"
@@ -61,7 +61,7 @@ pipeline{
       }
     }
    }
-   /*
+   
    post{
       always{
 emailext body: '''Hi Team,
